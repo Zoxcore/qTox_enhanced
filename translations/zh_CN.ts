@@ -1405,11 +1405,11 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     </message>
     <message>
         <source>Create new group</source>
-        <translation>创建聊天群组</translation>
+        <translation>新建群聊</translation>
     </message>
     <message>
         <source>Group invites</source>
-        <translation>群组邀请</translation>
+        <translation>邀请入群</translation>
     </message>
 </context>
 <context>
@@ -1431,7 +1431,7 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     <name>GroupWidget</name>
     <message>
         <source>Remove chat from this window</source>
-        <translation>从这个窗口中删除会话</translation>
+        <translation>关闭当前聊天窗口</translation>
     </message>
     <message>
         <source>Set title...</source>
@@ -1440,11 +1440,11 @@ the only allowed Push Servers are (no other servers will ever be contacted):
     <message>
         <source>Quit group</source>
         <comment>Menu to quit a groupchat</comment>
-        <translation>退出群组</translation>
+        <translation>退出群聊</translation>
     </message>
     <message>
         <source>Open chat in new window</source>
-        <translation>在新窗口打开会话</translation>
+        <translation>在新窗口打开聊天</translation>
     </message>
     <message numerus="yes">
         <source>%n user(s) in chat</source>
@@ -1544,7 +1544,7 @@ Profile does not contain your history.</source>
     <message>
         <source>Go back to the login screen</source>
         <comment>tooltip for logout button</comment>
-        <translation>返回到登录屏幕</translation>
+        <translation>返回到登录界面</translation>
     </message>
     <message>
         <source>Remove your password and encryption from your profile.</source>
@@ -1561,11 +1561,11 @@ Profile does not contain your history.</source>
     </message>
     <message>
         <source>Status message input</source>
-        <translation>输入状态消息</translation>
+        <translation>短信验证码输入</translation>
     </message>
     <message>
         <source>Status message visible to contacts</source>
-        <translation>状态消息对联系人可见</translation>
+        <translation>短信验证码对联系人可见</translation>
     </message>
     <message>
         <source>Your Tox ID</source>
@@ -1642,7 +1642,7 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Confirm:</source>
-        <translation>确认：</translation>
+        <translation>确认密码：</translation>
     </message>
     <message>
         <source>Password strength: %p%</source>
@@ -1650,7 +1650,7 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Create Profile</source>
-        <translation>创建配置</translation>
+        <translation>创建配置文件</translation>
     </message>
     <message>
         <source>Load automatically</source>
@@ -1670,7 +1670,7 @@ Share it with your friends to begin chatting.</source>
     </message>
     <message>
         <source>Load Profile</source>
-        <translation>加载配置</translation>
+        <translation>加载配置文件</translation>
     </message>
     <message>
         <source>Couldn&apos;t create a new profile</source>
@@ -1795,7 +1795,7 @@ Please make sure to enter the same password twice.</source>
     </message>
     <message>
         <source>Create a group chat</source>
-        <translation>创建聊天群组</translation>
+        <translation>新建群聊</translation>
     </message>
     <message>
         <source>View completed file transfers</source>
